@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Karir dan mengASIhi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Situs web edukasi ASI Eksklusif untuk ibu bekerja.
 
-## Available Scripts
+## Tentang Proyek
 
-In the project directory, you can run:
+Proyek Karir dan mengASIhi adalah sebuah platform web edukasi yang didedikasikan untuk mendukung ibu bekerja dalam perjalanan ASI Eksklusif mereka. Situs ini menyediakan informasi yang ringan, mudah diakses, dan informatif mengenai berbagai aspek menyusui, disesuaikan dengan tantangan yang mungkin dihadapi oleh ibu yang juga memiliki karir.
 
-### `npm start`
+## Tujuan Proyek
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tujuan utama dari situs web ini adalah:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Menyediakan edukasi seputar ASI Eksklusif kepada ibu bekerja.
+* Menampilkan informasi dalam antarmuka yang bersih, ringan, dan mudah dinavigasi.
 
-### `npm test`
+## Fitur Utama
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **Beranda (Home)**: Halaman depan yang menyambut pengunjung dengan judul proyek, tagline yang relevan, dan CTA untuk mulai membaca atau menghubungi.
+* **Daftar Artikel (Article List)**: Menampilkan daftar topik edukasi dengan judul dan deskripsi singkat, memungkinkan pengguna untuk menelusuri konten dengan mudah.
+* **Halaman Detail Artikel (Article Detail)**: Menampilkan isi artikel lengkap dengan navigasi yang intuitif, mendukung pengalaman membaca yang fokus.
+* **Kontak**: Halaman khusus untuk pertanyaan atau dukungan, dilengkapi dengan tombol langsung menuju WhatsApp atau email.
+* **Footer**: Berisi informasi dasar situs, kontak, dan disclaimer singkat.
+* **Desain Responsif**: Memastikan tampilan yang optimal di berbagai perangkat (desktop, tablet, mobile).
 
-### `npm run build`
+## Teknologi yang Digunakan
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Frontend Framework**: React.js
+* **Styling**: Tailwind CSS
+* **Routing**: React Router DOM
+* **Icons**: React Icons
+* **Content Styling**: @tailwindcss/typography
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Proyek ini dihosting secara online menggunakan Vercel dan dapat diakses melalui tautan berikut:
 
-### `npm run eject`
+🔗 [https://karir-mengasihi.vercel.app](https://karir-mengasihi.vercel.app)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Instalasi Lokal
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone repository:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/your-username/karir-mengasihi.git
+```
 
-## Learn More
+> Ganti `your-username` dengan username GitHub Anda.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Masuk ke direktori proyek:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+cd karir-mengasihi
+```
 
-### Code Splitting
+3. Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm install
+# atau jika menggunakan yarn
+yarn install
+```
 
-### Analyzing the Bundle Size
+## Menjalankan Aplikasi
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Setelah instalasi, jalankan aplikasi dalam mode pengembangan:
 
-### Making a Progressive Web App
+```bash
+npm start
+# atau
+yarn start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Aplikasi akan terbuka di browser Anda pada `http://localhost:3000`. Perubahan yang Anda buat akan dimuat ulang secara otomatis.
 
-### Advanced Configuration
+## Konten Artikel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Situs ini memuat 10 artikel edukasi komprehensif mengenai ASI Eksklusif, yang meliputi:
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Apa Itu ASI Eksklusif?
+2. Kandungan dan Komposisi ASI
+3. Manfaat ASI Bagi Bayi
+4. Manfaat ASI Bagi Ibu
+5. Teknik Menyusui yang Benar
+6. Cara Memperlancar ASI
+7. Produksi dan Penyimpanan ASI
+8. ASI vs Susu Formula
+9. Mitos vs Fakta ASI
+10. Mengatasi Masalah Menyusui
