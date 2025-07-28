@@ -88,7 +88,7 @@ function Header() {
             </Link>
 
             <a 
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6285369435057"
               target="_blank" 
               rel="noopener noreferrer" 
               className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-6 py-2 rounded-full font-medium transition-all duration-300 transform hover:-translate-y-0.5 hover:shadow-lg flex items-center space-x-2"

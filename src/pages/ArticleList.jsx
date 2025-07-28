@@ -123,7 +123,7 @@ function ArticleList() {
               Kami siap membantu perjalanan mengASIhi Anda!
             </p>
             <a 
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/6285369435057"
               target="_blank" 
               rel="noopener noreferrer" 
               className="inline-flex items-center bg-white hover:bg-gray-50 text-gray-800 font-bold py-4 px-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
