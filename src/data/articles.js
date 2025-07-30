@@ -2,7 +2,7 @@ import PosisiMenyusuiBenar from '../assets/images/posisi-menyusui-benar.png';
 import PerlekatanBaik from '../assets/images/perlekatan-baik.png';
 import PerlekatanBaik2 from '../assets/images/perlekatan-baik2.png';
 import AsiVsFormula from '../assets/images/asi-vs-formula.png';
-import MemerahAsiManual from '../assets/images/memerah-asi-manual.png';
+import MemerahAsiManual from '../assets/images/memerah-asi-manual.png'; // Pastikan gambar ini ada di folder Anda
 
 const articles = [
   {
@@ -261,26 +261,26 @@ const articles = [
       {
         type: "text",
         content: `
-          <p>Masalah menyusui yang umum terjadi pada ibu menyusui antara lain meliputi puting lecet dan payudara membengkak akibat bendungan ASI maka di perlukan Teknik perawatan payudara dimana perawatan payudara merupakan salah satu cara merawat payudara untuk produkasi ASI, selain itu untuk kebersihan payudara dan bentuk putting, mencegah penyumbatan dan memperodukasi ASI</p> 
+          <p>Masalah menyusui yang umum terjadi pada ibu menyusui antara lain meliputi puting lecet dan payudara membengkak akibat bendungan ASI maka di perlukan Teknik perawatan payudara dimana perawatan payudara merupakan salah satu cara merawat payudara untuk produkasi ASI, selain itu untuk kebersihan payudara dan bentuk putting, mencegah penyumbatan dan memperodukasi ASI</p>
 
           <h3 class="text-xl font-semibold mb-2">Teknik Perawatan Payudara yang Dapat Dilakukan:</h3>
           <ul>
-            <li><strong>Puting lecet:</strong> Untuk mencegah rasa sakit, bersihkan putting susu dengan iar hangat Ketika sedang mandi dan jangan menggunakan sabun, karena sabun bisa membuat putting suus kering dan iritasi.</li> 
-            <li><strong>Putting susu bengkak akibat bendungan ASI:</strong> lakukan pengompresan payudara menggunakan kain basah dan hangat selama 5 menit, urut payudara dari arah pangkal menuju putting susu, keluarkan ASI Sebagian sehingga putting susu menjadi lunak, susukan bayi setiap 2-3 jam, apabila tidak dapat menghisap ASI sisanya di keluarkan dengan tangan letakkan kain dingin pada payudara setelah menyusui.</li> 
+            <li><strong>Puting lecet:</strong> Untuk mencegah rasa sakit, bersihkan putting susu dengan iar hangat Ketika sedang mandi dan jangan menggunakan sabun, karena sabun bisa membuat putting suus kering dan iritasi.</li>
+            <li><strong>Putting susu bengkak akibat bendungan ASI:</strong> lakukan pengompresan payudara menggunakan kain basah dan hangat selama 5 menit, urut payudara dari arah pangkal menuju putting susu, keluarkan ASI Sebagian sehingga putting susu menjadi lunak, susukan bayi setiap 2-3 jam, apabila tidak dapat menghisap ASI sisanya di keluarkan dengan tangan letakkan kain dingin pada payudara setelah menyusui.</li>
           </ul>
 
           <h3 class="text-xl font-semibold mb-2 mt-4">Teknik Memerah ASI secara Manual atau Menggunakan Pompa</h3>
-          <p>Memerah ASI merupakan cara mengeluarkan ASI dari payudara (selain dengan hisapan bayi langsung). Berikut ini di uraikan tentang berbagai metode memerah asi dan Teknik pemerahan yang dapat dilakukan,</p> 
+          <p>Memerah ASI merupakan cara mengeluarkan ASI dari payudara (selain dengan hisapan bayi langsung). Berikut ini di uraikan tentang berbagai metode memerah asi dan Teknik pemerahan yang dapat dilakukan,</p>
 
           <h4 class="text-lg font-semibold mb-2">Memerah Langsung Menggunakan Tangan (Manual)</h4>
-          <p>Memerah ASI dengan tangan merupakan metode yang efektif untuk mengosongkan payudara secara optimal dibandingkan dengan menggunakan pompa. Teknik ini dapat merangsang refleks pengeluaran ASI (<em>let-down reflex</em>) lebih cepat karena adanya kontak langsung antara tangan dan kulit payudara. Selain praktis dan tanpa biaya, metode ini hanya memerlukan kesabaran dan teknik yang tepat.</p> 
-          <p>Langkah-langkah memerah ASI secara manual antara lain:</p> 
+          <p>Memerah ASI dengan tangan merupakan metode yang efektif untuk mengosongkan payudara secara optimal dibandingkan dengan menggunakan pompa. Teknik ini dapat merangsang refleks pengeluaran ASI (<em>let-down reflex</em>) lebih cepat karena adanya kontak langsung antara tangan dan kulit payudara. Selain praktis dan tanpa biaya, metode ini hanya memerlukan kesabaran dan teknik yang tepat.</p>
+          <p>Langkah-langkah memerah ASI secara manual antara lain:</p>
           <ol class="list-decimal list-inside ml-4">
-            <li>Mencuci tangan dengan sabun di bawah air mengalir.</li> 
-            <li>Menyiapkan wadah penampung ASI yang bersih.</li> 
-            <li>Merangsang <em>Let-Down Reflex</em> (LDR).</li> 
+            <li>Mencuci tangan dengan sabun di bawah air mengalir.</li>
+            <li>Menyiapkan wadah penampung ASI yang bersih.</li>
+            <li>Merangsang <em>Let-Down Reflex</em> (LDR).</li>
           </ol>
-          <p>Teknik ini harus dilakukan dengan hati-hati untuk memaksimalkan pengeluaran ASI dan mencegah terjadinya bendungan. Ilustrasi tahapannya dijelaskan gambar berikut ini: </p> 
+          <p>Teknik ini harus dilakukan dengan hati-hati untuk memaksimalkan pengeluaran ASI dan mencegah terjadinya bendungan. Ilustrasi tahapannya dijelaskan gambar berikut ini: </p>
         `,
       },
       {
@@ -293,14 +293,89 @@ const articles = [
         type: "text",
         content: `
           <ul class="list-disc list-inside ml-4">
-            <li>Langkah 1: Melakukan pemijatan lembut pada payudara sebelum memulai memerah ASI. Memberikan penekanan secara lembut mulai dari bagian atas payudara menuju ke arah puting susu. Lakukan pada seluruh permukaan payudara.</li> 
-            <li>Langkah 2: Sangga payudara dengan tangan membentuk seperti huruf "C". Posisikan telapak tangan menopang payudara dengan ibu jari berada di atas areola (bagian yang menghitam), keempat jari lain berada di bagian bawah puting (menopang payudara).</li> 
-            <li>Langkah 3: Tekan payudara ke arah dinding dada. Pertahankan tangan masih menyangga payudara dengan bentuk huruf C.</li> 
-            <li>Langkah 4: Lakukan pemerahan ASI dengan lembut. Ibu jari dan jari-jari lain didekatkan, kemudian dorong ke arah depan (ke arah areola), perah ASI, kemudian lepaskan. Ulang kembali langkah 3 dan 4 hingga payudara kosong, kemudian pindah ke sisi payudara lain.</li> 
+            <li>Langkah 1: Melakukan pemijatan lembut pada payudara sebelum memulai memerah ASI. Memberikan penekanan secara lembut mulai dari bagian atas payudara menuju ke arah puting susu. Lakukan pada seluruh permukaan payudara.</li>
+            <li>Langkah 2: Sangga payudara dengan tangan membentuk seperti huruf "C". Posisikan telapak tangan menopang payudara dengan ibu jari berada di atas areola (bagian yang menghitam), keempat jari lain berada di bagian bawah puting (menopang payudara).</li>
+            <li>Langkah 3: Tekan payudara ke arah dinding dada. Pertahankan tangan masih menyangga payudara dengan bentuk huruf C.</li>
+            <li>Langkah 4: Lakukan pemerahan ASI dengan lembut. Ibu jari dan jari-jari lain didekatkan, kemudian dorong ke arah depan (ke arah areola), perah ASI, kemudian lepaskan. Ulang kembali langkah 3 dan 4 hingga payudara kosong, kemudian pindah ke sisi payudara lain.</li>
           </ul>
 
           <h4 class="text-lg font-semibold mb-2 mt-4">Memerah ASI Menggunakan Pompa (Pumping)</h4>
-          <p>Sebagian ibu merasa lebih nyaman memerah dengan menggunakan pompa daripada tangan. Biasanya pada ibu bekerja yang memiliki keterbatasan waktu memerah, lebih memilih menggunakan pompa. Perlu diperhatikan pada saat menggunakan pompa adalah baca dengan seksama prosedur penggunaan dan perawatan pompa yang terdapat pada buku petunjuk.</p> 
+          <p>Sebagian ibu merasa lebih nyaman memerah dengan menggunakan pompa daripada tangan. Biasanya pada ibu bekerja yang memiliki keterbatasan waktu memerah, lebih memilih menggunakan pompa. Perlu diperhatikan pada saat menggunakan pompa adalah baca dengan seksama prosedur penggunaan dan perawatan pompa yang terdapat pada buku petunjuk.</p>
+        `,
+      },
+    ],
+  },
+  {
+    id: 11,
+    title: "Tips dan Strategi Pemberian ASI bagi Ibu Bekerja",
+    slug: "tips-strategi-asi-ibu-bekerja",
+    description: "10 tips sukses pemberian ASI Eksklusif pada ibu bekerja agar tetap optimal.",
+    blocks: [
+      {
+        type: "text",
+        content: `
+          <p>Berikut penulis tuliskan tips sukses untuk ibu bekerja yang ingin tetap memberikan ASI untuk bayinya:</p>
+          <ol class="list-decimal list-inside ml-4">
+            <li>Menyiapkan persediaan ASIP (air susu ibu perah) dengan baik dengan cara membuat tabungan ASIP sejak hari pertama menyusui.</li>
+            <li>Memerah dan menyimpan ASIP (air susu ibu perah) secara rutin sesuai jadwal menyusui di rumah.</li>
+            <li>Memberikan ASIP (air susu ibu perah) dengan cangkir, sendok ataupun pipet.</li>
+            <li>Mempersiapkan pengasuh sekaligus memberi edukasi yang sesuai dengan misi ibu bekerja.</li>
+            <li>Membawa foto bayi saat memerah ASI agar mood tetap baik.</li>
+            <li>Memiliki pompa ASI yang benar-benar berkualitas untuk mendukung kelancaran memompa ASI. Jika tidak memerah dengan kedua tangan lebih dianjurkan.</li>
+            <li>Mencari teman sesama pejuang ASIP (air susu ibu perah) untuk menambah semangat mengASlhi.</li>
+            <li>Pastikan selalu terhidrasi dengan baik melalui makan dan minum yang bernutrisi tinggi.</li>
+            <li>Ketahui cara menyimpan ASI dengan benar dan sampaikan juga pada pengasuh cara pengelolaan ASIP (air susu ibu perah).</li>
+            <li>Pertimbangkan untuk menggunakan fasilitas penitipan anak yang dekat dengan kantor agar bisa menyusui secara langsung dari payudara di jam kerja.</li>
+          </ol>
+        `,
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: "Manajemen Laktasi pada Ibu Bekerja",
+    slug: "manajemen-laktasi-ibu-bekerja",
+    description: "Langkah-langkah untuk mempersiapkan dan mengelola proses laktasi bagi ibu bekerja.",
+    blocks: [
+      {
+        type: "text",
+        content: `
+          <p>Setiap perempuan, termasuk yang memiliki pekerjaan, memiliki hak untuk tetap menyusui. Suradi (2010) menyatakan bahwa ibu bekerja harus mempersiapkan serta mengelola proses laktasinya dengan baik. Bagian berikut akan menjelaskan langkah-langkah yang dapat dilakukan agar ibu bekerja tetap dapat memberikan ASI secara optimal.</p>
+          <h3 class="text-xl font-semibold mb-2 mt-4">A. Persiapan</h3>
+          <h4 class="text-lg font-semibold mb-2">1. Selama Kehamilan</h4>
+          <ul>
+            <li>Membicarakan keputusan untuk tetap menyusui meskipun bekerja dengan atasan atau rekan kerja.</li>
+            <li>Menyampaikan kepada atasan mengenai manfaat bagi perusahaan apabila karyawan perempuan tetap menyusui, serta mendiskusikan durasi cuti melahirkan dan menyusui.</li>
+            <li>Membahas rencana kembali bekerja, apakah akan bekerja penuh waktu atau paruh waktu, serta kemungkinan bekerja dari rumah jika tersedia fasilitas seperti internet.</li>
+            <li>Menanyakan kepada atasan apakah diperbolehkan menyusui anak di tempat kerja atau di rumah.</li>
+            <li>Apabila menyusui langsung tidak memungkinkan, diskusikan kesempatan istirahat di jam kerja untuk memerah ASI.</li>
+            <li>Mencari tempat yang nyaman dan layak untuk memerah ASI, sebaiknya bukan kamar mandi, serta idealnya ruangan tersebut memang disediakan khusus untuk kegiatan tersebut.</li>
+            <li>Memastikan ketersediaan lokasi yang mendukung kegiatan menyusui atau memerah ASI di tempat kerja.</li>
+            <li>Pastikan ada tempat yang memadai untuk mengeluarkan dan menyimpan ASI.</li>
+            <li>Cari tahu apakah tersedia fasilitas penitipan anak di lingkungan kerja atau di sekitarnya, serta layanan apa saja yang ditawarkan oleh tempat penitipan tersebut.</li>
+            <li>Berdiskusilah dengan ibu-ibu bekerja lainnya untuk berbagi pengalaman.</li>
+            <li>Libatkan pasangan (suami) dan keluarga dekat dalam pembahasan mengenai waktu kembali bekerja, siapa yang akan merawat bayi ketika Anda bekerja, kemungkinan pasangan mengambil cuti, pembagian tugas rumah tangga, serta pengawasan anak-anak lain di rumah.</li>
+          </ul>
+          <h4 class="text-lg font-semibold mb-2 mt-4">Menjelang Ibu Kembali Bekerja</h4>
+          <ul>
+            <li>Susui bayi langsung dari payudara dan hindari penggunaan dot, botol susu, maupun pemberian cairan selain ASI.</li>
+            <li>Pastikan mengonsumsi cukup air putih, makan makanan bergizi seimbang, dan mengurangi stres agar produksi ASI tetap lancar.</li>
+            <li>Luangkan waktu untuk relaksasi sekitar 20 menit setiap hari tanpa harus memerah ASI.</li>
+            <li>Gunakan pakaian yang memudahkan Anda memerah ASI kapan pun diperlukan.</li>
+            <li>Biasakan memerah ASI dengan pompa manual, pompa elektrik, atau tangan. Amati durasi yang dibutuhkan untuk mengosongkan payudara; umumnya kedua payudara dapat kosong dalam waktu 15–20 menit. Mulailah memerah ASI secara rutin sejak ASI pertama keluar atau ketika payudara terasa penuh, biasanya pada minggu pertama setelah melahirkan.</li>
+            <li>Tetapkan jadwal rutin memerah ASI, misalnya setiap dua hingga tiga jam. ASI perah yang berlebih dapat disimpan di lemari pendingin sebagai cadangan untuk digunakan di kemudian hari.</li>
+            <li>Saat berada di tempat kerja, lakukan pemerasan ASI dengan menggunakan cangkir, sendok, atau pipet. Hindari penggunaan botol untuk pemberian ASI perah karena dapat mengganggu kebiasaan menyusu langsung pada bayi.</li>
+            <li>Carilah pengasuh yang mampu memberikan ASI perah (ASIP) dan merawat anak ketika ibu bekerja, misalnya nenek, kakek, anggota keluarga lain, babysitter, atau pengasuh profesional. Berikan kesempatan kepada pengasuh untuk lebih mengenal bayi dengan cara menghabiskan waktu bersama selama satu hingga dua minggu sebelum ibu mulai kembali bekerja. Jika tidak tersedia pengasuh, pertimbangkan untuk menggunakan jasa penitipan anak. Pastikan pengasuh memahami cara memberikan ASI perah menggunakan cangkir, sendok, atau pipet.</li>
+          </ul>
+          <h4 class="text-lg font-semibold mb-2 mt-4">Selama Ibu Bekerja</h4>
+          <ul>
+            <li>Usahakan memulai kembali pekerjaan pada akhir pekan sehingga hari kerja pertama terasa lebih singkat dan memudahkan proses penyesuaian.</li>
+            <li>Hindari penumpukan pekerjaan agar tidak menimbulkan stres yang dapat memengaruhi produksi ASI.</li>
+            <li>Pastikan ibu memperoleh waktu tidur yang cukup, mengonsumsi air putih dalam jumlah yang memadai, serta menjaga pola makan yang sehat.</li>
+            <li>Tingkatkan frekuensi menyusui bayi di pagi hari sebelum berangkat kerja, pada sore atau malam hari, serta di hari libur. Hal ini dapat membantu mempertahankan produksi ASI sekaligus mempererat ikatan antara ibu dan bayi.</li>
+            <li>Jika tempat kerja tidak menyediakan pompa ASI atau fasilitas pemerasan ASI, simpan persediaan ASI perah di lemari pendingin selama ibu bekerja. Upayakan memerah ASI setiap tiga jam sekali.</li>
+            <li>Sebelum berangkat bekerja, siapkan kotak pendingin serta wadah penyimpanan ASI perah yang higienis untuk memudahkan pengangkutan dan penyimpanan.</li>
+          </ul>
         `,
       },
     ],
