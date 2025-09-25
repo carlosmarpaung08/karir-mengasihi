@@ -79,7 +79,7 @@ Aplikasi akan terbuka di browser Anda pada `http://localhost:3000`. Perubahan ya
 Situs ini memuat 10 artikel edukasi komprehensif mengenai ASI Eksklusif, yang meliputi:
 
 1. Apa Itu ASI Eksklusif?
-2. Kandungan dan Komposisi ASI
+2. Manfaat ASI Eksklusif
 3. Manfaat ASI Bagi Bayi
 4. Manfaat ASI Bagi Ibu
 5. Teknik Menyusui yang Benar

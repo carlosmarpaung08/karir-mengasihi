@@ -305,8 +305,58 @@ const articles = [
   //     },
   //   ],
   // },
+  
   {
     id: 11,
+    title: "Manajemen Laktasi pada Ibu Bekerja",
+    slug: "manajemen-laktasi-ibu-bekerja",
+    description: "Langkah-langkah untuk mempersiapkan dan mengelola proses laktasi bagi ibu bekerja.",
+    blocks: [
+      {
+        type: "text",
+        content: `
+          <p>Setiap perempuan, termasuk yang memiliki pekerjaan, memiliki hak untuk tetap menyusui. Suradi (2010) menyatakan bahwa ibu bekerja harus mempersiapkan serta mengelola proses laktasinya dengan baik. Bagian berikut akan menjelaskan langkah-langkah yang dapat dilakukan agar ibu bekerja tetap dapat memberikan ASI secara optimal.</p>
+          <h3 class="text-xl font-semibold mb-2 mt-4">A. Persiapan</h3>
+          <h4 class="text-lg font-semibold mb-2">1. Selama Kehamilan</h4>
+          <ul>
+            <li>Membicarakan keputusan untuk tetap menyusui meskipun bekerja dengan atasan atau rekan kerja.</li>
+            <li>Menyampaikan kepada atasan mengenai manfaat bagi perusahaan apabila karyawan perempuan tetap menyusui, serta mendiskusikan durasi cuti melahirkan dan menyusui.</li>
+            <li>Membahas rencana kembali bekerja, apakah akan bekerja penuh waktu atau paruh waktu, serta kemungkinan bekerja dari rumah jika tersedia fasilitas seperti internet.</li>
+            <li>Menanyakan kepada atasan apakah diperbolehkan menyusui anak di tempat kerja atau di rumah.</li>
+            <li>Apabila menyusui langsung tidak memungkinkan, diskusikan kesempatan istirahat di jam kerja untuk memerah ASI.</li>
+            <li>Mencari tempat yang nyaman dan layak untuk memerah ASI, sebaiknya bukan kamar mandi, serta idealnya ruangan tersebut memang disediakan khusus untuk kegiatan tersebut.</li>
+            <li>Memastikan ketersediaan lokasi yang mendukung kegiatan menyusui atau memerah ASI di tempat kerja.</li>
+            <li>Pastikan ada tempat yang memadai untuk mengeluarkan dan menyimpan ASI.</li>
+            <li>Cari tahu apakah tersedia fasilitas penitipan anak di lingkungan kerja atau di sekitarnya, serta layanan apa saja yang ditawarkan oleh tempat penitipan tersebut.</li>
+            <li>Berdiskusilah dengan ibu-ibu bekerja lainnya untuk berbagi pengalaman.</li>
+            <li>Libatkan pasangan (suami) dan keluarga dekat dalam pembahasan mengenai waktu kembali bekerja, siapa yang akan merawat bayi ketika Anda bekerja, kemungkinan pasangan mengambil cuti, pembagian tugas rumah tangga, serta pengawasan anak-anak lain di rumah.</li>
+          </ul>
+          <h4 class="text-lg font-semibold mb-2 mt-4">Menjelang Ibu Kembali Bekerja</h4>
+          <ul>
+            <li>Susui bayi langsung dari payudara dan hindari penggunaan dot, botol susu, maupun pemberian cairan selain ASI.</li>
+            <li>Pastikan mengonsumsi cukup air putih, makan makanan bergizi seimbang, dan mengurangi stres agar produksi ASI tetap lancar.</li>
+            <li>Luangkan waktu untuk relaksasi sekitar 20 menit setiap hari tanpa harus memerah ASI.</li>
+            <li>Gunakan pakaian yang memudahkan Anda memerah ASI kapan pun diperlukan.</li>
+            <li>Biasakan memerah ASI dengan pompa manual, pompa elektrik, atau tangan. Amati durasi yang dibutuhkan untuk mengosongkan payudara; umumnya kedua payudara dapat kosong dalam waktu 15–20 menit. Mulailah memerah ASI secara rutin sejak ASI pertama keluar atau ketika payudara terasa penuh, biasanya pada minggu pertama setelah melahirkan.</li>
+            <li>Tetapkan jadwal rutin memerah ASI, misalnya setiap dua hingga tiga jam. ASI perah yang berlebih dapat disimpan di lemari pendingin sebagai cadangan untuk digunakan di kemudian hari.</li>
+            <li>Saat berada di tempat kerja, lakukan pemerasan ASI dengan menggunakan cangkir, sendok, atau pipet. Hindari penggunaan botol untuk pemberian ASI perah karena dapat mengganggu kebiasaan menyusu langsung pada bayi.</li>
+            <li>Carilah pengasuh yang mampu memberikan ASI perah (ASIP) dan merawat anak ketika ibu bekerja, misalnya nenek, kakek, anggota keluarga lain, babysitter, atau pengasuh profesional. Berikan kesempatan kepada pengasuh untuk lebih mengenal bayi dengan cara menghabiskan waktu bersama selama satu hingga dua minggu sebelum ibu mulai kembali bekerja. Jika tidak tersedia pengasuh, pertimbangkan untuk menggunakan jasa penitipan anak. Pastikan pengasuh memahami cara memberikan ASI perah menggunakan cangkir, sendok, atau pipet.</li>
+          </ul>
+          <h4 class="text-lg font-semibold mb-2 mt-4">Selama Ibu Bekerja</h4>
+          <ul>
+            <li>Usahakan memulai kembali pekerjaan pada akhir pekan sehingga hari kerja pertama terasa lebih singkat dan memudahkan proses penyesuaian.</li>
+            <li>Hindari penumpukan pekerjaan agar tidak menimbulkan stres yang dapat memengaruhi produksi ASI.</li>
+            <li>Pastikan ibu memperoleh waktu tidur yang cukup, mengonsumsi air putih dalam jumlah yang memadai, serta menjaga pola makan yang sehat.</li>
+            <li>Tingkatkan frekuensi menyusui bayi di pagi hari sebelum berangkat kerja, pada sore atau malam hari, serta di hari libur. Hal ini dapat membantu mempertahankan produksi ASI sekaligus mempererat ikatan antara ibu dan bayi.</li>
+            <li>Jika tempat kerja tidak menyediakan pompa ASI atau fasilitas pemerasan ASI, simpan persediaan ASI perah di lemari pendingin selama ibu bekerja. Upayakan memerah ASI setiap tiga jam sekali.</li>
+            <li>Sebelum berangkat bekerja, siapkan kotak pendingin serta wadah penyimpanan ASI perah yang higienis untuk memudahkan pengangkutan dan penyimpanan.</li>
+          </ul>
+        `,
+      },
+    ],
+  },
+  {
+    id: 12,
     title: "Tips dan Strategi Pemberian ASI bagi Ibu Bekerja",
     slug: "tips-strategi-asi-ibu-bekerja",
     description: "10 tips sukses pemberian ASI Eksklusif pada ibu bekerja agar tetap optimal.",
@@ -332,7 +382,7 @@ const articles = [
     ],
   },
   {
-    id: 12,
+    id: 13,
     title: "Teknik Memerah ASI",
     slug: "teknik-memerah-asi",
     description: "Panduan mengenai dua teknik memerah ASI, yaitu secara manual dan menggunakan pompa.",
@@ -362,7 +412,7 @@ const articles = [
     ],
   },
   {
-    id: 13,
+    id: 14,
     title: "Teknik Penyimpanan ASI Perah pada Ibu Bekerja",
     slug: "teknik-penyimpanan-asi-perah-pada-ibu-bekerja",
     description: "Panduan tentang cara menyimpan ASI perah agar kualitas dan gizinya tetap terjaga.",
