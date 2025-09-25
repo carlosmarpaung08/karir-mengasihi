@@ -80,11 +80,7 @@ Situs ini memuat 10 artikel edukasi komprehensif mengenai ASI Eksklusif, yang me
 
 1. Apa Itu ASI Eksklusif?
 2. Manfaat ASI Eksklusif
-3. Manfaat ASI Bagi Bayi
-4. Manfaat ASI Bagi Ibu
-5. Teknik Menyusui yang Benar
-6. Cara Memperlancar ASI
-7. Produksi dan Penyimpanan ASI
-8. ASI vs Susu Formula
-9. Mitos vs Fakta ASI
-10. Mengatasi Masalah Menyusui
+3. Manajemen Laktasi pada Ibu Bekerja
+4. Tips dan Strategi Pemberian ASI bagi Ibu Bekerja
+5. Teknik Memerah ASI
+6. Teknik Penyimpanan ASI Perah pada Ibu Bekerja
