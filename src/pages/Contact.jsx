@@ -212,7 +212,7 @@ function Contact() {
 
                 <div className="mt-8 p-4 bg-gradient-to-r from-pink-50 to-purple-50 rounded-2xl">
                   <p className="text-gray-700 font-medium">
-                    💝 Terima kasih atas kunjungan Anda ke <span className="font-bold text-pink-600">Karir dan mengASIhi</span>!
+                    💝 Terima kasih atas kunjungan Anda ke <span className="font-bold text-pink-600">Sukses ASI dan Bekerja</span>!
                   </p>
                 </div>
               </div>

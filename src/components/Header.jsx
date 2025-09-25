@@ -28,7 +28,7 @@ function Header() {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent group-hover:from-pink-700 group-hover:to-purple-700 transition-all duration-300">
-                Karir dan mengASIhi
+                Sukses ASI dan Bekerja
               </h1>
               <p className="text-xs text-gray-500 hidden sm:block">Panduan ASI untuk Ibu Bekerja</p>
             </div>

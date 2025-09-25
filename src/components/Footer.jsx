@@ -20,7 +20,7 @@ function Footer() {
               </div>
               <div>
                 <h3 className="text-2xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-                  Karir dan mengASIhi
+                  Sukses ASI dan Bekerja
                 </h3>
                 <p className="text-gray-400 text-sm">Panduan ASI untuk Ibu Bekerja</p>
               </div>
@@ -125,7 +125,7 @@ function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-gray-400 text-sm">
-                &copy; {currentYear} <span className="text-pink-400 font-semibold">Karir dan mengASIhi</span>. 
+                &copy; {currentYear} <span className="text-pink-400 font-semibold">Sukses ASI dan Bekerja</span>. 
                 Semua hak dilindungi undang-undang.
               </p>
               <p className="text-gray-500 text-xs mt-1">

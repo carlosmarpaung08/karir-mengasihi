@@ -25,7 +25,7 @@ function ArticleList() {
             <div className="w-24 h-1 bg-gradient-to-r from-pink-500 to-purple-500 mx-auto rounded-full"></div>
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
               Temukan berbagai informasi penting dan tips praktis seputar ASI Eksklusif 
-              untuk mendukung perjalanan karir dan mengASIhi Anda.
+              untuk mendukung perjalanan Sukses ASI dan Bekerja Anda.
             </p>
           </div>
 

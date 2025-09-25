@@ -1,10 +1,10 @@
-# Karir dan mengASIhi
+# Sukses ASI dan Bekerja
 
 Situs web edukasi ASI Eksklusif untuk ibu bekerja.
 
 ## Tentang Proyek
 
-Proyek Karir dan mengASIhi adalah sebuah platform web edukasi yang didedikasikan untuk mendukung ibu bekerja dalam perjalanan ASI Eksklusif mereka. Situs ini menyediakan informasi yang ringan, mudah diakses, dan informatif mengenai berbagai aspek menyusui, disesuaikan dengan tantangan yang mungkin dihadapi oleh ibu yang juga memiliki karir.
+Proyek Sukses ASI dan Bekerja adalah sebuah platform web edukasi yang didedikasikan untuk mendukung ibu bekerja dalam perjalanan ASI Eksklusif mereka. Situs ini menyediakan informasi yang ringan, mudah diakses, dan informatif mengenai berbagai aspek menyusui, disesuaikan dengan tantangan yang mungkin dihadapi oleh ibu yang juga memiliki karir.
 
 ## Tujuan Proyek
 
