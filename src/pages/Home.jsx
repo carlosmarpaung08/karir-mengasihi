@@ -19,11 +19,11 @@ function Home() {
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight">
                   <span className="bg-gradient-to-r from-pink-600 to-purple-600 bg-clip-text text-transparent">
-                    Karir
+                    Sukses
                   </span>{' '}
-                  dan{' '}
+                  ASI{' '}
                   <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                    mengASIhi
+                    dan Bekerja
                   </span>
                 </h1>
                 <div className="w-24 h-1 bg-gradient-to-r from-pink-500 to-purple-500 mx-auto lg:mx-0 rounded-full"></div>
